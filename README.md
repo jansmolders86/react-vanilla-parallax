@@ -1,6 +1,7 @@
 # Simple Implementation of Parallax
 
 Parallax without any parallax plugins. Uses Tweenmax for animation but can easily be swapped out with a vanilla solution.
+Works with a dynamic number of layers. 
 
 ### Works with React 16+.
 
