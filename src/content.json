@@ -1,0 +1,113 @@
+[{
+  "Navigation": [{
+      "id": "about",
+      "name": "About"
+    },
+    {
+      "id": "locations",
+      "name": "Locations"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us"
+    }
+  ],
+  "Footer": {
+    "copyright": "<p>© 2004-2016, Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, Unreal Tournament, and the Unreal Tournament 3 logo are trademarks or registered trademarks of Epic Games, Inc. in the United States of America and elsewhere. Other brands or product names are the trademarks of their respective owners. <a href='#'>PRIVACY</a> | <a href='#'>TERMS OF USE</a></p>"
+  },
+  "section1": [{
+      "id": 0,
+      "subtitle": "Paragon",
+      "title": "New Monolith Map"
+    },
+    {
+      "id": 1,
+      "subtitle": "Fortnite",
+      "title": "Battle Royale Is Amazing"
+    }
+  ],
+  "section2": {
+    "title": "About",
+    "contentSlides": [{
+        "title": "Every Thing We Do Is Epic.",
+        "description": "We're in the business of creating fun games we want to play, and the mind-blowing art and tech we need to bring those games to life. We consistently strive to stay on the cutting edge of our industry. So we iterate to improve everything, every day: our games, our technology, our processes, even our workplace and people. This unrelenting focus on innovation and quality defines us."
+      },
+      {
+        "title": "People Matter Most",
+        "description": "emiotics yuccie wolf green juice taxidermy kombucha. Drinking vinegar godard meggings, VHS kinfolk ramps mlkshk occupy direct trade aesthetic."
+      },
+      {
+        "title": "Lead By Example",
+        "description": "Gochujang street art marfa, gastropub tbh squid tumeric taiyaki cornhole. Blue bottle tote bag fanny pack pour-over +1. Man bun echo park slow-carb you probably haven't heard of them pitchfork hammock. Small batch sartorial quinoa kitsch."
+      },
+      {
+        "title": "Making Games is Fun",
+        "description": "Meditation vinyl chambray af tbh adaptogen aesthetic pok pok retro quinoa. Typewriter scenester XOXO stumptown, mlkshk beard normcore 90's iPhone vexillologist crucifix viral wayfarers vinyl."
+      }
+    ]
+  },
+  "section3": {
+    "title": "Locations",
+    "description": "Click on a location in the map below to see current job openings or use the search tool below:",
+    "locations": [{
+        "id": "cary",
+        "name": "Cary, North Carolina"
+      },
+      {
+        "id": "saltLakeCity",
+        "name": "Salt Lake City, Utah"
+      },
+      {
+        "id": "seattle",
+        "name": "Seattle, Washington"
+      },
+      {
+        "id": "guildford",
+        "name": "Guildford, England"
+      },
+      {
+        "id": "berlin",
+        "name": "Berlin, Germany"
+      },
+      {
+        "id": "sunderland",
+        "name": "Sunderland, United Kingdom"
+      },
+      {
+        "id": "shanghai",
+        "name": "Shanghai, China"
+      },
+      {
+        "id": "suzhou",
+        "name": "Suzhou, China"
+      },
+      {
+        "id": "yokohama",
+        "name": "Yokohama, Japan"
+      },
+      {
+        "id": "seoul",
+        "name": "Seoul, South Korea"
+      },
+      {
+        "id": "montreal",
+        "name": "Montreal, Canada"
+      }
+    ]
+  },
+  "section4": {
+    "title": "Contact Us",
+    "description": "We welcome anyone who plays our games or uses our game technology to engage with us at the Epic Games Forums. Our publishers provide technical support for our games, although answers to many commonly asked questions can be found here as well.",
+    "contacts": [{
+        "id": "telephone",
+        "name": "Tel",
+        "number": "+1 210.357.1592"
+      },
+      {
+        "id": "fax",
+        "name": "Fax",
+        "number": "+1 210.528.0000"
+      }
+    ]
+  }
+}]
