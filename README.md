@@ -14,5 +14,5 @@ Image Courtesy of Epic Games: [Robo Recall](https://epicgames.com/roborecall)
 1. open command Prompt/Terminal in working directory and run: __yarn install__
 2. after dependencies are installed run __yarn start__ and a browser window should pop up on page 'http://localhost:3000'
 
-**The 'goods' are in the [src](https://github.com/jansmolders86/react-vanilla-parallax/tree/master/src) folder. Check out App.js and Parallax.js/sass! Enjoy!**
+**The 'goods' are in the [src](https://github.com/jansmolders86/react-vanilla-parallax/tree/master/src) folder. Check out [App.js](https://github.com/jansmolders86/react-vanilla-parallax/blob/master/src/App.js) and [Parallax.js](https://github.com/jansmolders86/react-vanilla-parallax/blob/master/src/Parallax.js) / [Parallax.sass](https://github.com/jansmolders86/react-vanilla-parallax/blob/master/src/Parallax.sass)! Enjoy!**
 
